@@ -87,6 +87,7 @@ body * {
 #switch button:hover {
   outline: 8px solid var(--highlight-color);
   cursor: pointer;
+  border-radius: 9999px;
 }
 
 #switch span {
